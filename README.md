@@ -9,10 +9,10 @@
 ## 🚀 **Sobre mim**
 🎯 **Especialidades**:  
 ✔️ Administração de Servidores Linux & Windows  
-✔️ Virtualização e Cloud Computing (AWS, Azure, Docker)  
+✔️ Virtualização e Cloud Computing (VMware, Azure, Docker)  
 ✔️ Redes e Segurança da Informação  
 ✔️ Desenvolvimento Web & Mobile (Python, Flask, Flet, PHP, JavaScript)  
-✔️ Banco de Dados (MySQL, SQLite, PostgreSQL)  
+✔️ Banco de Dados (MySQL, SQLite, PostgreSQL e SQL Server)  
 
 📚 **Atualmente estudando**:  
 - DevOps (CI/CD, GitHub Actions)  
@@ -40,9 +40,7 @@
 ---
 
 ## 🏆 **Projetos em Destaque**
-🔹 [Press-Ticket](https://github.com/brunoramalho01/Press-Ticket) – Sistema de atendimento baseado em tickets  
 🔹 [Sys-Ouvidoria](https://github.com/brunoramalho01/Sys-Ouvidoria) – Plataforma para gestão de ouvidorias  
-🔹 [Roteirizador](https://github.com/brunoramalho01/Roteirizador) – Ferramenta para otimização de rotas  
 
 ---
 
