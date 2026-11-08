@@ -69,5 +69,4 @@
 Se você se identifica com meu perfil, tem interesse em colaboração, networking ou deseja conhecer mais sobre meus projetos, fique à vontade para me chamar! Siga meu perfil e acompanhe as novidades.
 
 <a href="mailto:brunoramalho01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/bramalho001/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bruno-ramalho-santos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
