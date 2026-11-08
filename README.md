@@ -58,6 +58,8 @@
 
 ## 🏆 Projetos em Destaque
 
+
+🔹 [Wallet-Finance](https://github.com/brunoramalho01/walletfinance) – App web para Controle Financeiro Pessoal
 🔹 [Sys-SerraVerde](https://github.com/brunoramalho01/srv-diferenca) – Plataforma para gestão de Classificação de Soja
 
 ---
